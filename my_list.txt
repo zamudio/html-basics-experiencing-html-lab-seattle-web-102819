@@ -1,4 +1,3 @@
-<ol>
 <li>"Liverpool"</li>
 <li>"Arsenal"</li>
 <li>"Chelsea"</li>
@@ -19,4 +18,3 @@
 <li>"Manchester City"</li>
 <li>"Bournemouth"</li>
 <li>"Burnley"</li>
-</ol>
